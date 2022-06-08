@@ -1,0 +1,15 @@
+{
+  "name": "com.codysource.gamecountdown",
+  "version": "1.0.0",
+  "displayName": "Game Countdown",
+  "description": "TThis package provides a simple countdown timer which can have custom text values for each value.",
+  "unity": "2020.3",
+  "unityRelease": "15f2",
+  "dependencies": {
+    "com.codysource.gamepause": "1.0.0",
+    "com.unity.textmeshpro": "2.1.1"
+  },
+  "author": {
+    "name": "Cody Source"
+  }
+}
